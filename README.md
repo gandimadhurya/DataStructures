@@ -30,4 +30,17 @@ Software and Libraries This project uses the following software and Python libra
   - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/sortand%20search"> Search and Sort Algorithms</a>
   - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/Maps%20and%20Hashing"> Maps and Hashing</a>
 
+# Leetcode solutions:
+
+I've worked out few leetcode problems. In this repo, I've shared my solutions with explanantions. 
+- <a href="https://github.com/saiabhishekgv/DataStructures/blob/master/Maps%20and%20Hashing/DuplicateFile.cpp"> Leetcode: 609. Find Duplicate File in System </a>
+  
+
+# Resources : 
+
+	- http://massivealgorithms.blogspot.tw/
+	- leetcode.com
+	- geeksforgeeks.org
+	
+   
   
